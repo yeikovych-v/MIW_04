@@ -1,0 +1,2 @@
+Teacher I have attached my trained model file for your convenience.
+Place asl_model.h5 in the same directory as my python file and replace variable 'TRAIN_NEW_MODEL = True' to 'False' to use existing model instead of training a new one.
